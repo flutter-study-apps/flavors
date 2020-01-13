@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818484601853",
+    "firebase_url": "https://flavors-dev.firebaseio.com",
+    "project_id": "flavors-dev",
+    "storage_bucket": "flavors-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818484601853:android:0c253878c13240ef5a6f94",
+        "android_client_info": {
+          "package_name": "com.example.flavors.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818484601853-9433gdd65m39kp9g0niapkad7totmgga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flavors.dev",
+            "certificate_hash": "ca7d76ad3b008c5c385acc5e1e60c1f2229c64e4"
+          }
+        },
+        {
+          "client_id": "818484601853-6h4cuin3oel5itnuthdpmtjqljt0v57p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg651kbzBO848Vr_CcckZyXcJe2L7_ouU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818484601853-6h4cuin3oel5itnuthdpmtjqljt0v57p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

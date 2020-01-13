@@ -1,15 +1,12 @@
 import 'package:flutter/material.dart';
 import 'resources/app_config.dart';
-import 'main.dart ';
+import 'main.dart';
 
-void main(){
-  
-  //create a variable for AppConfig
+void main() {
   var configuredApp = AppConfig(
-    appTitle: "Flutter Production",
+    appTitle: "Flutter Flavors",
     buildFlavor: "Production",
     child: MyApp(),
   );
-
   return runApp(configuredApp);
 }

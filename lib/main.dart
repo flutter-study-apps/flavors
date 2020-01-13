@@ -1,8 +1,7 @@
-  
 import 'package:flutter/material.dart';
-import 'ui/pages/home.dart';
+import 'package:flavors/ui/pages/home.dart';
+// import 'package:flavors/ui/pages/home.dart';
 import 'resources/app_config.dart';
-
 
 class MyApp extends StatelessWidget {
   @override
@@ -16,3 +15,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
